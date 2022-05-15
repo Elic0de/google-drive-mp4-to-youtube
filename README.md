@@ -1,0 +1,2 @@
+# google-drive-mp4-to-youtube
+google driveのあるフォルダーにmp4ファイルをアップロードしたら そのフォルダーに紐付いたyoutubeチャンネルに動画をアップロードし 動画URLをスプレッドシートに更新する
